@@ -10,15 +10,15 @@ I chose this dataset because I enjoy listening to music on Spotify.
 
 ## Progress
 
-- [ ] Picked dataset
-- [ ] Defined 10 questions
+- [x] Picked dataset
+- [x] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
 
-- [ ] Question 1: What percentage of the songs are explicit?
+- [x] Question 1: What percentage of the songs are explicit?
 
   - Answer: 35.9%
   - Visualization: ![Q1 Visualization](Visualizations/Q1.png)
