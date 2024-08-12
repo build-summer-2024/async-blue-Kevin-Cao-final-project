@@ -21,7 +21,7 @@ I chose this dataset because I enjoy listening to music on Spotify.
 - [ ] Question 1: What percentage of the songs are explicit?
 
   - Answer: 35.9%
-  - Visualization: [Q1 Visualization](Q1.png)
+  - Visualization: [Q1 Visualization](Visualizations/Q1.png)
 
 - [ ] Question 2: How do Spotify streams compare to YouTube views across tracks?
 
