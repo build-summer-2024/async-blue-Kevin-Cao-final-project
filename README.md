@@ -4,63 +4,63 @@
 
 ## Why did I chose this dataset?
 
-I chose this dataset because I like to watch horror/thriller movies. I always wanted to know what places were haunted and where were they clustered together.
+I chose this dataset because I am a big fan of horror/thriller movies. I always wanted to know what places were haunted and where were they clustered together.
 
 ## Progress
 
 - [x] Picked dataset
 - [x] Defined 10 questions
 - [x] Answered 10 questions using Pandas
-- [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [x] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
 
 - [x] Question 1: Which states have the highest concentration of haunted places?
 
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+  - Answer: California, Texas, Pennsylvania, Michigan, Ohio
+  - Visualization: ![Q1 Visualization](visuals/Q1.png)
 
 - [x] Question 2: Are haunted places more common in urban areas (cities) or rural areas?
 
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+  - Answer: Urban
+  - Visualization: ![Q2 Visualization](visuals/Q2.png)
 
 - [x] Question 3: Are there any clusters of haunted places?
 
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+  - Answer: Yes, more clustered on the east coast
+  - Visualization: ![Q3 Visualization](visuals/Q3.png)
 
 - [x] Question 4: Top 10 Cities with the most haunted places?
 
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+  - Answer: LA, San Antonia, Honolulu, Pittsburgh, Columbus, Springfield, Salem, El Paso, Houston, Orlando
+  - Visualization: ![Q4 Visualization](visuals/Q4.png)
 
 - [x] Question 5: What are the northernmost, southernmost, easternmost, and westernmost haunted places within California?
 
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+  - Answer:
+  - Visualization: ![Q5 Visualization](visuals/Q5.png)
 
 - [x] Question 6: What time period was most haunted?
 
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+  - Answer: 20th century -> 1900s
+  - Visualization: ![Q6 Visualization](visuals/Q6.png)
 
 - [x] Question 7: What are the least haunted states?
 
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+  - Answer: Washington DC, Alaska, Delaware, Montana, Nevada
+  - Visualization: ![Q7 Visualization](visuals/Q7.png)
 
 - [x] Question 8: How does the number of haunted places in each city compare to the total number of haunted places in the state where the city is located?
 
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+  - Answer: About the same except for DC because it is a territory
+  - Visualization: ![Q8 Visualization](visuals/Q8.png)
 
 - [x] Question 9: How many haunted hospitals are there in each state?
 
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
+  - Answer: Pennsylvania has 18 haunted hospitals
+  - Visualization: ![Q9 Visualization](visuals/Q9.png)
 
 - [x] Question 10: What is a distribution of the types of haunted places?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+  - Answer: 21% Schools, 10% Streets, 7.6% Cementery, 7% Hotels, 6.7% Houses, 31% Other (Very Specific Places)
+  - Visualization: ![Q10 Visualization](visuals/Q10.png)
